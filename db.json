@@ -1,6 +1,6 @@
 {
   "products": [
-     {
+    {
       "id": "1",
       "name": "Luxury Sneakers",
       "description": "High-quality sneakers with a stylish design",
@@ -40,7 +40,7 @@
         "Lightweight Frame",
         "Unisex Design"
       ],
-      "stock": 7
+      "stock": 6
     },
     {
       "id": "4",
@@ -305,6 +305,30 @@
       "status": "success",
       "date": "2025-02-24T14:04:30.361Z",
       "id": 11
+    },
+    {
+      "items": [
+        {
+          "id": "3",
+          "name": "Vintage Sunglasses",
+          "description": "Stylish sunglasses with UV protection",
+          "price": 49.99,
+          "image": "https://img.freepik.com/free-photo/colored-transparent-sunglasses-still-life_23-2150163165.jpg?ga=GA1.1.764951109.1727277145&semt=ais_hybrid",
+          "details": [
+            "Polarized Lenses",
+            "UV Protection",
+            "Lightweight Frame",
+            "Unisex Design"
+          ],
+          "stock": 7,
+          "quantity": 1
+        }
+      ],
+      "total": 49.99,
+      "paymentReference": "T925123999473074",
+      "status": "success",
+      "date": "2025-09-08T18:59:42.634Z",
+      "id": 12
     }
   ]
 }
