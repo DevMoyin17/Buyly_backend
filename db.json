@@ -2,333 +2,127 @@
   "products": [
     {
       "id": "1",
-      "name": "Luxury Sneakers",
-      "description": "High-quality sneakers with a stylish design",
-      "price": 129.99,
-      "image": "https://img.freepik.com/premium-photo/summer-pink-women-s-sneakers-white-background_140241-340.jpg?ga=GA1.1.764951109.1727277145&semt=ais_hybrid",
+      "name": "Glow Dew Serum",
+      "description": "A lightweight hydrating serum that layers moisture into skin and leaves a soft, dewy finish",
+      "price": 10,
+      "image": "/images/glow-serum.jpg",
       "details": [
-        "Breathable Fabric",
-        "Durable Sole",
-        "Lightweight",
-        "Available in Multiple Sizes"
+        "Hyaluronic acid complex",
+        "Dewy, comfortable finish",
+        "Layers under moisturizer",
+        "Fragrance-free formula"
       ],
-      "stock": 9
+      "stock": 20
     },
     {
       "id": "2",
-      "name": "Classic Leather Belt",
-      "description": "Genuine leather belt with a sleek finish",
-      "price": 35.99,
-      "image": "https://img.freepik.com/premium-photo/belts-white-background-men-s-belts_347372-134.jpg?ga=GA1.1.764951109.1727277145&semt=ais_hybrid",
+      "name": "Cloud Cream Moisturizer",
+      "description": "A cushiony everyday moisturizer that softens skin and helps it hold on to hydration",
+      "price": 15,
+      "image": "/images/cloud-cream.jpg",
       "details": [
-        "Premium Leather",
-        "Adjustable Fit",
-        "Metal Buckle",
-        "Classic Design"
+        "Squalane and ceramides",
+        "Lightweight cushion texture",
+        "Barrier-loving care",
+        "Morning and night"
       ],
-      "stock": 8
+      "stock": 14
     },
     {
       "id": "3",
-      "name": "Vintage Sunglasses",
-      "description": "Stylish sunglasses with UV protection",
-      "price": 49.99,
-      "image": "https://img.freepik.com/free-photo/colored-transparent-sunglasses-still-life_23-2150163165.jpg?ga=GA1.1.764951109.1727277145&semt=ais_hybrid",
+      "name": "Sacred Radiance Body Oil",
+      "description": "A silky body oil with marula and jojoba that sinks in quickly and leaves skin soft and luminous",
+      "price": 42,
+      "image": "/images/body-oil.jpg",
       "details": [
-        "Polarized Lenses",
-        "UV Protection",
-        "Lightweight Frame",
-        "Unisex Design"
+        "Marula and jojoba oils",
+        "Fast-absorbing finish",
+        "Soft botanical scent",
+        "Made for daily body rituals"
       ],
-      "stock": 6
+      "stock": 18
     },
     {
       "id": "4",
-      "name": "Gaming Console",
-      "description": "Next-gen gaming console with 4K capabilities",
-      "price": 200,
-      "image": "https://img.freepik.com/premium-photo/gen-video-game-controller-console-isolated-white-background_317399-834.jpg?ga=GA1.1.764951109.1727277145&semt=ais_hybrid",
+      "name": "Rose Body Ritual Set",
+      "description": "A complete rose-scented body ritual with scrub, oil and a softening mist for cared-for skin",
+      "price": 68,
+      "image": "/images/body-ritual-set.jpg",
       "details": [
-        "4K Gaming",
-        "1TB Storage",
-        "Ray Tracing",
-        "Digital Edition"
+        "Body scrub, oil and mist",
+        "Rose and marula blend",
+        "Beautifully giftable",
+        "Limited seasonal set"
       ],
-      "stock": 11
+      "stock": 9
     },
     {
       "id": "5",
-      "name": "Laptop",
-      "description": "Ultra-thin laptop with powerful performance",
-      "price": 124.99,
-      "image": "https://img.freepik.com/premium-photo/laptop-computer-with-abstract-background-monitor-high-quality-photo_493343-6292.jpg?ga=GA1.1.764951109.1727277145&semt=ais_hybrid",
+      "name": "Coffee Sugar Scrub",
+      "description": "A warm coffee and sugar body scrub that buffs away dullness and leaves skin smooth, soft and revived",
+      "price": 30,
+      "image": "/images/coffee-scrub.jpg",
       "details": [
-        "Intel i7 Processor",
-        "16GB RAM",
-        "512GB SSD",
-        "14-inch 4K Display"
+        "Coffee and brown sugar",
+        "Gentle physical exfoliation",
+        "Nourishing oils",
+        "Use once or twice a week"
       ],
-      "stock": 6
+      "stock": 15
     },
     {
       "id": "6",
-      "name": "Smartphone",
-      "description": "Latest flagship smartphone with advanced camera system",
-      "price": 50.99,
-      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500",
+      "name": "Gentle Foam Cleanser",
+      "description": "A soft foaming wash that lifts away the day without leaving skin tight or stripped",
+      "price": 24,
+      "image": "/images/gentle-cleanser.jpg",
       "details": [
-        "Triple Camera System",
-        "5G Capable",
-        "128GB Storage",
-        "OLED Display"
+        "Gentle foaming cleanse",
+        "Oat and aloe extracts",
+        "pH balanced",
+        "Suitable for daily use"
       ],
-      "stock": 17
+      "stock": 25
     },
     {
       "id": "7",
-      "name": "Wireless Earbuds",
-      "description": "True wireless earbuds with premium sound quality",
-      "price": 19.99,
-      "image": "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?ga=GA1.1.764951109.1727277145&semt=ais_hybrid",
+      "name": "Daily Renew Cleanser",
+      "description": "A gentle daily cleanser for fresh, comfortable skin and a clear, calm complexion",
+      "price": 26,
+      "image": "/images/daily-cleanser.jpg",
       "details": [
-        "Active Noise Cancellation",
-        "24-hour battery life",
-        "Water resistant",
-        "Touch controls"
+        "Cream-to-foam texture",
+        "Ceramide complex",
+        "Soap-free formula",
+        "For all skin types"
       ],
-      "stock": 19
+      "stock": 22
     },
     {
       "id": "8",
-      "name": "Tablett",
-      "description": "Professional tablet for creative work",
-      "price": 90,
-      "image": "https://img.freepik.com/premium-vector/electronics-tablet-computers_733843-63.jpg?ga=GA1.1.764951109.1727277145&semt=ais_hybrid",
+      "name": "Invisible Shield SPF 50",
+      "description": "A weightless daily sunscreen with broad-spectrum SPF 50 and an invisible finish",
+      "price": 29,
+      "image": "/images/sunscreen.jpg",
       "details": [
-        "11-inch Display",
-        "Apple Pencil support",
-        "256GB Storage",
-        "All-day battery"
+        "Broad-spectrum SPF 50",
+        "No white cast",
+        "Lightweight finish",
+        "Daily sun protection"
       ],
-      "stock": 9
+      "stock": 24
+    },
+    {
+      "name": "Facial Toner",
+      "price": 10,
+      "description": "Toner restores your skin’s natural pH after washing. ",
+      "details": [
+        "Toner restores your skin’s natural pH after washing. This helps your skin stay balanced and healthy. It removes leftover oil, makeup, and residue. This reduces clogged pores and breakouts. Toner smooths the look of pores. Your skin looks more even. Hydrating toners add moisture and reduce dryness. Soothing toners calm redness and irritation. Exfoliating toners remove dead skin cells and boost glow. Oil controlling toners reduce shine and help prevent acne. Toner helps serums and moisturizers absorb better. You get better results with less product. Use toner daily after cleansing. Choose alcohol free formulas that match your skin type.Oil-controlling"
+      ],
+      "stock": 10,
+      "image": "https://i.pinimg.com/736x/9e/5e/f1/9e5ef18a1b9ce4336811f3d9ec402856.jpg",
+      "id": "WEszBfU"
     }
   ],
-  "orders": [
-    {
-      "items": [
-        {
-          "name": "Wireless Headphones",
-          "quantity": 1,
-          "price": 199.99
-        }
-      ],
-      "total": 199.99,
-      "paymentReference": "T414623043301563",
-      "status": "success",
-      "date": "2025-01-29T16:46:39.065Z",
-      "email": "moyinoluwaadigun390@gmail.com",
-      "id": 1
-    },
-    {
-      "items": [
-        {
-          "name": "Wireless Headphones",
-          "quantity": 1,
-          "price": 199.99
-        }
-      ],
-      "total": 199.99,
-      "paymentReference": "T414623043301563",
-      "status": "success",
-      "date": "2025-01-29T16:46:39.221Z",
-      "email": "moyinoluwaadigun390@gmail.com",
-      "id": 2
-    },
-    {
-      "items": [
-        {
-          "name": "Wireless Headphones",
-          "quantity": 1,
-          "price": 199.99
-        }
-      ],
-      "total": 199.99,
-      "paymentReference": "T954072168336219",
-      "status": "success",
-      "date": "2025-01-29T17:27:07.144Z",
-      "email": "goshenjanet1975@gmail.com",
-      "id": 3
-    },
-    {
-      "items": [
-        {
-          "name": "Wireless Headphones",
-          "quantity": 1,
-          "price": 199.99
-        }
-      ],
-      "total": 199.99,
-      "paymentReference": "T954072168336219",
-      "status": "success",
-      "date": "2025-01-29T17:27:07.710Z",
-      "email": "goshenjanet1975@gmail.com",
-      "id": 4
-    },
-    {
-      "items": [
-        {
-          "id": "7",
-          "name": "Wireless Earbuds",
-          "description": "True wireless earbuds with premium sound quality",
-          "price": 19.99,
-          "image": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=500",
-          "details": [
-            "Active Noise Cancellation",
-            "24-hour battery life",
-            "Water resistant",
-            "Touch controls"
-          ],
-          "stock": 22,
-          "quantity": 1
-        }
-      ],
-      "total": 19.99,
-      "status": "failed",
-      "date": "2025-01-29T17:37:45.305Z",
-      "email": "goshenjanet1975@gmail.com",
-      "id": 5
-    },
-    {
-      "items": [
-        {
-          "name": "Wireless Earbuds",
-          "quantity": 1,
-          "price": 19.99
-        }
-      ],
-      "total": 19.99,
-      "paymentReference": "T514031960036104",
-      "status": "success",
-      "date": "2025-01-29T17:38:02.917Z",
-      "email": "goshenjanet1975@gmail.com",
-      "id": 6
-    },
-    {
-      "items": [
-        {
-          "name": "Wireless Earbuds",
-          "quantity": 1,
-          "price": 19.99
-        }
-      ],
-      "total": 19.99,
-      "paymentReference": "T514031960036104",
-      "status": "success",
-      "date": "2025-01-29T17:38:03.044Z",
-      "email": "goshenjanet1975@gmail.com",
-      "id": 7
-    },
-    {
-      "items": [
-        {
-          "name": "Wireless Earbuds",
-          "quantity": 1,
-          "price": 19.99
-        }
-      ],
-      "total": 19.99,
-      "paymentReference": "T304482444508801",
-      "status": "success",
-      "date": "2025-01-29T17:43:24.546Z",
-      "email": "goshenjanet1975@gmail.com",
-      "id": 8
-    },
-    {
-      "items": [
-        {
-          "name": "Wireless Earbuds",
-          "quantity": 1,
-          "price": 19.99
-        }
-      ],
-      "total": 19.99,
-      "paymentReference": "T304482444508801",
-      "status": "success",
-      "date": "2025-01-29T17:43:24.689Z",
-      "email": "goshenjanet1975@gmail.com",
-      "id": 9
-    },
-    {
-      "items": [
-        {
-          "id": "7",
-          "name": "Wireless Earbuds",
-          "description": "True wireless earbuds with premium sound quality",
-          "price": 19.99,
-          "image": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=500",
-          "details": [
-            "Active Noise Cancellation",
-            "24-hour battery life",
-            "Water resistant",
-            "Touch controls"
-          ],
-          "stock": 20,
-          "quantity": 1
-        }
-      ],
-      "total": 19.99,
-      "paymentReference": "T816625929010962",
-      "status": "success",
-      "date": "2025-01-30T17:06:20.668Z",
-      "id": 10
-    },
-    {
-      "items": [
-        {
-          "id": "1",
-          "name": "Wireless Headphones",
-          "description": "Premium wireless headphones with noise cancellation",
-          "price": 99.99,
-          "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500",
-          "details": [
-            "Active Noise Cancellation",
-            "40-hour battery life",
-            "Premium sound quality",
-            "Comfortable fit"
-          ],
-          "stock": 10,
-          "quantity": 1
-        }
-      ],
-      "total": 99.99,
-      "paymentReference": "T500275337916855",
-      "status": "success",
-      "date": "2025-02-24T14:04:30.361Z",
-      "id": 11
-    },
-    {
-      "items": [
-        {
-          "id": "3",
-          "name": "Vintage Sunglasses",
-          "description": "Stylish sunglasses with UV protection",
-          "price": 49.99,
-          "image": "https://img.freepik.com/free-photo/colored-transparent-sunglasses-still-life_23-2150163165.jpg?ga=GA1.1.764951109.1727277145&semt=ais_hybrid",
-          "details": [
-            "Polarized Lenses",
-            "UV Protection",
-            "Lightweight Frame",
-            "Unisex Design"
-          ],
-          "stock": 7,
-          "quantity": 1
-        }
-      ],
-      "total": 49.99,
-      "paymentReference": "T925123999473074",
-      "status": "success",
-      "date": "2025-09-08T18:59:42.634Z",
-      "id": 12
-    }
-  ]
+  "orders": []
 }
