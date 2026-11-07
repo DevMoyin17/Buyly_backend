@@ -122,6 +122,90 @@
       "stock": 10,
       "image": "https://i.pinimg.com/736x/9e/5e/f1/9e5ef18a1b9ce4336811f3d9ec402856.jpg",
       "id": "WEszBfU"
+    },
+    {
+      "id": "10",
+      "name": "Vitamin C Serum",
+      "description": "A brightening vitamin C serum with hyaluronic acid and vitamin E that helps even tone and leave skin glowing.",
+      "price": 36,
+      "image": "/images/vitamin-c-serum.jpg",
+      "details": [
+        "20% vitamin C complex",
+        "Hyaluronic acid and vitamin E",
+        "Brightens and evens tone",
+        "Lightweight, fast-absorbing"
+      ],
+      "stock": 26
+    },
+    {
+      "id": "11",
+      "name": "Botanical Skincare Set",
+      "description": "A complete botanical routine built around a cushiony moisturizer, with skin-loving essentials for soft, balanced skin.",
+      "price": 86,
+      "image": "/images/botanical-skincare-set.jpg",
+      "details": [
+        "Cleanser, serum and moisturizer",
+        "Plant-powered formulas",
+        "Simple three-step routine",
+        "Beautifully giftable"
+      ],
+      "stock": 12
+    },
+    {
+      "id": "12",
+      "name": "Amber Body Care Collection",
+      "description": "A warm amber body ritual with three nourishing essentials for soft, cared-for skin.",
+      "price": 72,
+      "image": "/images/amber-body-care-collection.jpg",
+      "details": [
+        "Body wash, oil and balm",
+        "Warm amber botanical scent",
+        "Nourishing everyday care",
+        "Complete body ritual"
+      ],
+      "stock": 14
+    },
+    {
+      "id": "13",
+      "name": "Barrier Repair Cream",
+      "description": "A rich barrier repair cream with ceramides that cushions dry skin and helps lock in lasting moisture.",
+      "price": 34,
+      "image": "/images/barrier-repair-cream.jpg",
+      "details": [
+        "Ceramide-rich formula",
+        "Supports the skin barrier",
+        "Rich, cushiony texture",
+        "Fragrance-free"
+      ],
+      "stock": 22
+    },
+    {
+      "id": "14",
+      "name": "Lavender Calm Duo",
+      "description": "A calming lavender body duo for soft, comfortable skin.",
+      "price": 58,
+      "image": "/images/lavender-calm-duo.jpg",
+      "details": [
+        "Lavender body wash and cream",
+        "Soothing, calming scent",
+        "Softens and comforts skin",
+        "Made for evening rituals"
+      ],
+      "stock": 16
+    },
+    {
+      "id": "15",
+      "name": "Mint Dew Hydrating Serum",
+      "description": "A fresh hydrating serum with hyaluronic acid and a cooling mint finish that leaves skin plump and dewy.",
+      "price": 32,
+      "image": "/images/mint-dew-serum.jpg",
+      "details": [
+        "Hyaluronic acid complex",
+        "Cooling mint finish",
+        "Layers under moisturizer",
+        "Fresh, dewy glow"
+      ],
+      "stock": 20
     }
   ],
   "orders": []
