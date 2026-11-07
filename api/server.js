@@ -11,7 +11,7 @@ const { createProxyMiddleware } = require('http-proxy-middleware');
 
 server.use(cors({
   origin:[
-'https://buyly.vercel.app',
+/^https:\/\/(buyly|gloworaa)[a-z0-9-]*\.vercel\.app$/i,
 /^http:\/\/localhost:\d+$/
   ] ,
   methods: ['GET', 'POST', 'PATCH', 'DELETE'],
