@@ -4,7 +4,7 @@
       "id": "1",
       "name": "Glow Dew Serum",
       "description": "A lightweight hydrating serum that layers moisture into skin and leaves a soft, dewy finish",
-      "price": 10,
+      "price": 34,
       "image": "/images/glow-serum.jpg",
       "details": [
         "Hyaluronic acid complex",
@@ -18,7 +18,7 @@
       "id": "2",
       "name": "Cloud Cream Moisturizer",
       "description": "A cushiony everyday moisturizer that softens skin and helps it hold on to hydration",
-      "price": 15,
+      "price": 28,
       "image": "/images/cloud-cream.jpg",
       "details": [
         "Squalane and ceramides",
@@ -32,7 +32,7 @@
       "id": "3",
       "name": "Sacred Radiance Body Oil",
       "description": "A silky body oil with marula and jojoba that sinks in quickly and leaves skin soft and luminous",
-      "price": 42,
+      "price": 38,
       "image": "/images/body-oil.jpg",
       "details": [
         "Marula and jojoba oils",
@@ -46,7 +46,7 @@
       "id": "4",
       "name": "Rose Body Ritual Set",
       "description": "A complete rose-scented body ritual with scrub, oil and a softening mist for cared-for skin",
-      "price": 68,
+      "price": 79,
       "image": "/images/body-ritual-set.jpg",
       "details": [
         "Body scrub, oil and mist",
@@ -60,7 +60,7 @@
       "id": "5",
       "name": "Coffee Sugar Scrub",
       "description": "A warm coffee and sugar body scrub that buffs away dullness and leaves skin smooth, soft and revived",
-      "price": 30,
+      "price": 26,
       "image": "/images/coffee-scrub.jpg",
       "details": [
         "Coffee and brown sugar",
@@ -74,7 +74,7 @@
       "id": "6",
       "name": "Gentle Foam Cleanser",
       "description": "A soft foaming wash that lifts away the day without leaving skin tight or stripped",
-      "price": 24,
+      "price": 22,
       "image": "/images/gentle-cleanser.jpg",
       "details": [
         "Gentle foaming cleanse",
@@ -88,7 +88,7 @@
       "id": "7",
       "name": "Daily Renew Cleanser",
       "description": "A gentle daily cleanser for fresh, comfortable skin and a clear, calm complexion",
-      "price": 26,
+      "price": 24,
       "image": "/images/daily-cleanser.jpg",
       "details": [
         "Cream-to-foam texture",
@@ -102,7 +102,7 @@
       "id": "8",
       "name": "Invisible Shield SPF 50",
       "description": "A weightless daily sunscreen with broad-spectrum SPF 50 and an invisible finish",
-      "price": 29,
+      "price": 30,
       "image": "/images/sunscreen.jpg",
       "details": [
         "Broad-spectrum SPF 50",
@@ -114,7 +114,7 @@
     },
     {
       "name": "Facial Toner",
-      "price": 10,
+      "price": 20,
       "description": "Toner restores your skin’s natural pH after washing. ",
       "details": [
         "Toner restores your skin’s natural pH after washing. This helps your skin stay balanced and healthy. It removes leftover oil, makeup, and residue. This reduces clogged pores and breakouts. Toner smooths the look of pores. Your skin looks more even. Hydrating toners add moisture and reduce dryness. Soothing toners calm redness and irritation. Exfoliating toners remove dead skin cells and boost glow. Oil controlling toners reduce shine and help prevent acne. Toner helps serums and moisturizers absorb better. You get better results with less product. Use toner daily after cleansing. Choose alcohol free formulas that match your skin type.Oil-controlling"
